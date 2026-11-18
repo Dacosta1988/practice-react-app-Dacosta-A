@@ -1,0 +1,21 @@
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+main h1 {
+  text-align: center;
+}
+
+.profile-card {
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.profile-card h2 {
+  margin-top: 0;
+}
